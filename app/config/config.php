@@ -4,4 +4,4 @@
   // URL Root
   define('URLROOT', 'http://localhost/traversymvc');
   // Site Name
-  define('SITENAME', 'TraversyMVC');
+  define('SITENAME', 'shokremvc');
