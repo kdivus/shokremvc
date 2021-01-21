@@ -1,14 +1,14 @@
 <?php
   // DB params
   define('DB_HOST', 'localhost');
-  define('DB_USER', 'root');
-  define('DB_PASS', '');
-  define('DB_NAME', 'tmvc');
+  define('DB_USER', 'YOUR_USER');
+  define('DB_PASS', 'YOUR_PASS');
+  define('DB_NAME', 'YOUR_NAME');
   
   
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root
-  define('URLROOT', 'http://localhost/shokremvc');
+  define('URLROOT', 'YOUR_URL');
   // Site Name
-  define('SITENAME', 'shokremvc');
+  define('SITENAME', 'YOUR_SITENAME');
